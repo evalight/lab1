@@ -92,4 +92,5 @@ int main() {
     printf("Кол Серий : %d \n", RunNumber(A, n));
     printf("Средняя длинна Серии: %.1f",AvgSer(A,n));
     return 0;
-}
+}1241 24124124
+    
